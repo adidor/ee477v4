@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ador
+HostName                       viterbi-scf2.usc.edu
+ProcessIdentifier              321921
+ProcessCreationTime_UTC        1682979587
+ProcessCreationTime_Readable   Mon May  1 15:19:47 2023 PDT
+AppIdentifier                  /usr/local/cadence/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/viterbi/07/ador/EE477v3/cells/Adder_4bit/physConfig/physExpand.cfg
+TimeEditLocked                 Mon May  1 18:33:04 2023 PDT

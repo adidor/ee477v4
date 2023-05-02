@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ador
+HostName                       viterbi-scf2.usc.edu
+ProcessIdentifier              103999
+ProcessCreationTime_UTC        1682114408
+ProcessCreationTime_Readable   Fri Apr 21 15:00:08 2023 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/viterbi/07/ador/EE477/cells/MUX_1b/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri Apr 21 15:04:53 2023 PDT
